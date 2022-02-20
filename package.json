@@ -7,7 +7,9 @@
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "postinstall": "npx npm-force-resolutions && rm -rf ./node_modules/@haskkor/react-native-recaptchav3/node_modules/react-native-webview && npx jetify && npx pod-install",
+    "clean": "rm -rf $TMPDIR/react-native-packager-cache-* && rm -rf $TMPDIR/metro-bundler-cache-* && rm -rf ./ios/Build && rm -rf ./android/app/build && rm -rf ~/Library/Caches/CocoaPods && rm -rf ~/.gradle/caches/ && watchman watch-del-all"
   },
   "rnpm": {
     "assets": [

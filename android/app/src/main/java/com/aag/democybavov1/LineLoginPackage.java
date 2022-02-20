@@ -1,4 +1,4 @@
-package com.cybavo.btc.wallet;
+package com.aag.democybavov1;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;

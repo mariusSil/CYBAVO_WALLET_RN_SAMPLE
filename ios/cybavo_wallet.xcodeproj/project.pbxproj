@@ -747,7 +747,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.cybavo.btc.wallet;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aag.democybavov1;
 				PRODUCT_NAME = "CYBAVO Wallet";
 				PROVISIONING_PROFILE_SPECIFIER = "CYBAVO Wallet standalone dev";
 				SWIFT_OBJC_BRIDGING_HEADER = "cybavo_wallet-Bridging-Header.h";
@@ -775,7 +775,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.cybavo.btc.wallet;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aag.democybavov1;
 				PRODUCT_NAME = "CYBAVO Wallet";
 				PROVISIONING_PROFILE_SPECIFIER = "CYBAVO Wallet standalone";
 				SWIFT_OBJC_BRIDGING_HEADER = "cybavo_wallet-Bridging-Header.h";

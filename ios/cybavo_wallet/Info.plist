@@ -33,7 +33,7 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>fb1038360986579838</string>
+				<string>fb1043087413219365</string>
 			</array>
 		</dict>
 		<dict>
@@ -41,7 +41,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>line3rdp.com.cybavo.btc.wallet</string>
+				<string>line3rdp.com.aag.democybavov1</string>
 			</array>
 		</dict>
 		<dict>
@@ -66,7 +66,7 @@
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>FacebookAppID</key>
-	<string>1038360986579838</string>
+	<string>1043087413219365</string>
 	<key>FacebookDisplayName</key>
 	<string>CYBAVO Wallet</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
