@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "119250610364",
+    "project_id": "cybavo-demo",
+    "storage_bucket": "cybavo-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119250610364:android:2d0d33bf75612b458f88b9",
+        "android_client_info": {
+          "package_name": "com.aag.democybavo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119250610364-11ffo3qq9ni27jf8kuijpe57cv4clhl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEoKQ2cwEVODZc7NKX3AvL824et_AzxCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119250610364-11ffo3qq9ni27jf8kuijpe57cv4clhl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119250610364:android:b5e4e730a55e81278f88b9",
+        "android_client_info": {
+          "package_name": "com.aag.democybavov1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119250610364-11ffo3qq9ni27jf8kuijpe57cv4clhl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEoKQ2cwEVODZc7NKX3AvL824et_AzxCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119250610364-11ffo3qq9ni27jf8kuijpe57cv4clhl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
